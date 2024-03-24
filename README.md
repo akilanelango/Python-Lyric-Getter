@@ -16,7 +16,7 @@ This Python program allows users to find and display the lyrics of a song using 
 - requests library (install via pip install requests)
 
 ## Usage:
-python lyrics_finder.py
+- Run 'python lyrics_finder.py' on any terminal.
 
 ## Note:
 - Ensure that the song title and artist name are entered correctly to retrieve accurate lyrics.
